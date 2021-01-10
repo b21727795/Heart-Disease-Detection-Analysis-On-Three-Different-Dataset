@@ -1,0 +1,1 @@
+This study was carried out as the term-project of Hacettepe University Machine Learning course(BBM406).
